@@ -13,3 +13,5 @@ public class HelloWorld { // 첫글자는 무조건 대문자 기본이에요!! 
 ctrl+alt+l : 정렬
 class파일은 실제 java가 실행하면서 jvm이 읽는 파일이다
  */
+
+//주석추가

@@ -1,3 +1,5 @@
+package chapter01;
+
 public class HelloWorld { // 첫글자는 무조건 대문자 기본이에요!! (낙타봉기법)
     public static void main(String[] args) { //psvm + enter, 실행 위치
         System.out.println("KDT GOOD OK 1"); // sout 요렇게 해서 화면에 출력한다
